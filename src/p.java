@@ -7,7 +7,7 @@ class p extends c
 	}
 
 	public static void main(String args[]) {
-		System.out.println("Hi");
+		System.out.println("Ok");
 	}
 }
 class c 
